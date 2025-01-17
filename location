@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Choose Navigation</title>
+</head>
+<body>
+    <h2>Choose your navigation app:</h2>
+    <a href="https://www.google.com/maps/dir/?api=1&destination=2.952618747286363, 101.85072905300453" target="_blank">Open in Google Maps</a><br>
+    <a href="https://waze.com/ul?ll=2.952618747286363, 101.85072905300453&navigate=yes target="_blank">Open in Waze</a>
+</body>
+</html>
